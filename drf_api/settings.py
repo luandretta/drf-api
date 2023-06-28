@@ -67,7 +67,7 @@ DEBUG = 'DEV' in os.environ
 ALLOWED_HOSTS = [
     '8000-luandretta-drfapi-ajdvx38ywrv.ws-eu100.gitpod.io',
     'localhost',
-    'https://django-rest-framework-andretta-f415d1e4c8be.herokuapp.com/'
+    'django-rest-framework-andretta-f415d1e4c8be.herokuapp.com/'
 ]
 
 if 'CLIENT_ORIGIN' in os.environ:
