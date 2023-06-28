@@ -65,7 +65,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = 'DEV' in os.environ
 
 ALLOWED_HOSTS = [
-    '8000-luandretta-drfapi-ajdvx38ywrv.ws-eu100.gitpod.io',
+    '8000-luandretta-drfapi-ajdvx38ywrv.ws-eu101.gitpod.io',
     'localhost',
     'django-rest-framework-andretta-f415d1e4c8be.herokuapp.com/'
 ]
